@@ -12,6 +12,8 @@
 		DE9C19A01ECDC36800FF56F0 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = DE9C199E1ECDC36800FF56F0 /* Main.storyboard */; };
 		DE9C19A21ECDC36800FF56F0 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = DE9C19A11ECDC36800FF56F0 /* Assets.xcassets */; };
 		DE9C19A51ECDC36800FF56F0 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = DE9C19A31ECDC36800FF56F0 /* LaunchScreen.storyboard */; };
+		DE9C19AE1ECDC3A700FF56F0 /* james.jpg in Resources */ = {isa = PBXBuildFile; fileRef = DE9C19AC1ECDC3A700FF56F0 /* james.jpg */; };
+		DE9C19AF1ECDC3A700FF56F0 /* steve.jpg in Resources */ = {isa = PBXBuildFile; fileRef = DE9C19AD1ECDC3A700FF56F0 /* steve.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +24,8 @@
 		DE9C19A11ECDC36800FF56F0 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		DE9C19A41ECDC36800FF56F0 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		DE9C19A61ECDC36800FF56F0 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		DE9C19AC1ECDC3A700FF56F0 /* james.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = james.jpg; sourceTree = "<group>"; };
+		DE9C19AD1ECDC3A700FF56F0 /* steve.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = steve.jpg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,6 +58,8 @@
 		DE9C19991ECDC36800FF56F0 /* Gesture Recognition */ = {
 			isa = PBXGroup;
 			children = (
+				DE9C19AC1ECDC3A700FF56F0 /* james.jpg */,
+				DE9C19AD1ECDC3A700FF56F0 /* steve.jpg */,
 				DE9C199A1ECDC36800FF56F0 /* AppDelegate.swift */,
 				DE9C199C1ECDC36800FF56F0 /* ViewController.swift */,
 				DE9C199E1ECDC36800FF56F0 /* Main.storyboard */,
@@ -124,7 +130,9 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				DE9C19AE1ECDC3A700FF56F0 /* james.jpg in Resources */,
 				DE9C19A51ECDC36800FF56F0 /* LaunchScreen.storyboard in Resources */,
+				DE9C19AF1ECDC3A700FF56F0 /* steve.jpg in Resources */,
 				DE9C19A21ECDC36800FF56F0 /* Assets.xcassets in Resources */,
 				DE9C19A01ECDC36800FF56F0 /* Main.storyboard in Resources */,
 			);
